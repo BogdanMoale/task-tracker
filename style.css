@@ -1,0 +1,24 @@
+/* style when project is started */
+.started 
+{
+    color: white;
+    font-weight: bold;
+    background: green;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+/* style when project is completed */
+.completed 
+{
+    color: white;
+    font-weight: bold;
+    background: greenyellow;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+body 
+{
+    background-color: #C0C0C0;
+}
